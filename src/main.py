@@ -7,7 +7,8 @@
 #                       __/ |   | |                      
 #                      |___/    |_|  
 #                    
-# made by DAVALEX
+# made by DAVALEX for a school project
+# main creator: danoo-C on github
 
 
 #import game files
